@@ -206,6 +206,9 @@ body {
     font-size: 16px;
   }
 }
+code {
+  white-space: pre-wrap;
+}
 h1,
 h2,
 h3,
@@ -1822,7 +1825,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3995ff;
+  background: #a8ff20;
 }
 .links-of-blogroll {
   font-size: 13px;
